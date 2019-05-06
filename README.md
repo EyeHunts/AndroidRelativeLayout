@@ -1,3 +1,3 @@
 # AndroidRelativeLayout
 Android RelativeLayout
-https://tutorial.eyehunt.in/android/android-relativelayout-tutorial-example-kotlin/
+https://tutorial.eyehunts.com/android/android-relativelayout-tutorial-example-kotlin/
